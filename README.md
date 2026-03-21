@@ -1,7 +1,9 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
 [![Expo](https://img.shields.io/badge/Expo-48.0-black.svg)](https://expo.dev)
 [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](https://www.android.com)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # KyonEye
 
 **KyonEye** é uma aplicação mobile desenvolvida para o monitoramento e gerenciamento do ciclo de vida de containers.  
@@ -62,18 +64,6 @@ Caso deseje compilar sua própria versão do aplicativo, siga os passos abaixo.
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/)
 - [Expo Go](https://expo.dev/go) (para testes no dispositivo)
-
-
-### Estrutura do Projeto
-
-  KyonEye/
-      ├── api/ # Requisições HTTP com o servidor
-      ├── app/
-      │ └── (tabs)/ # Telas da aplicação
-      ├── assets/
-      │ └── images/ # Imagens, ícones e recursos visuais
-      ├── config/ # Configurações gerais (IPs, perfil, etc.)
-      └── hooks/ # Hooks personalizados para requisições à API
 
 
 ### Passo a Passo
