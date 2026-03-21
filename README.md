@@ -66,14 +66,14 @@ Caso deseje compilar sua própria versão do aplicativo, siga os passos abaixo.
 
 ### Estrutura do Projeto
 
-KyonEye/
-    ├── api/ # Requisições HTTP com o servidor
-    ├── app/
-    │ └── (tabs)/ # Telas da aplicação
-    ├── assets/
-    │ └── images/ # Imagens, ícones e recursos visuais
-    ├── config/ # Configurações gerais (IPs, perfil, etc.)
-    └── hooks/ # Hooks personalizados para requisições à API
+  KyonEye/
+      ├── api/ # Requisições HTTP com o servidor
+      ├── app/
+      │ └── (tabs)/ # Telas da aplicação
+      ├── assets/
+      │ └── images/ # Imagens, ícones e recursos visuais
+      ├── config/ # Configurações gerais (IPs, perfil, etc.)
+      └── hooks/ # Hooks personalizados para requisições à API
 
 
 ### Passo a Passo
