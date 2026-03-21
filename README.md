@@ -1,1 +1,1 @@
-# <img src="./logoTorii.png" width="35"> <sub>KyonEye</sub>
+# <img src="./logoTorii.png" width="40" style="vertical-align:middle"> KyonEye
